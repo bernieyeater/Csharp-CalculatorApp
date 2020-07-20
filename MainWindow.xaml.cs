@@ -234,5 +234,14 @@ namespace CalculatorApp
                 txtBox.Text = number2.ToString();
             }
         }
+
+        private void BtnC_Click(object sender, RoutedEventArgs e)
+        {
+            operation = "";
+            number1 = 0;
+            number2 = 0;
+            txtBox.Text = "0";
+
+        }
     }
 }
