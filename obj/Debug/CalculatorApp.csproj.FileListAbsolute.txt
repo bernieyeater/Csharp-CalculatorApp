@@ -1,7 +1,6 @@
 C:\Users\berni\source\repos\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
 C:\Users\berni\source\repos\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
 C:\Users\berni\source\repos\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
-C:\Users\berni\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojAssemblyReference.cache
 C:\Users\berni\source\repos\CalculatorApp\CalculatorApp\obj\Debug\MainWindow.g.cs
 C:\Users\berni\source\repos\CalculatorApp\CalculatorApp\obj\Debug\App.g.cs
 C:\Users\berni\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp_MarkupCompile.cache
@@ -13,3 +12,5 @@ C:\Users\berni\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.
 C:\Users\berni\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
 C:\Users\berni\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
 C:\Users\berni\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
+C:\Users\berni\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+C:\Users\berni\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.SuggestedBindingRedirects.cache
